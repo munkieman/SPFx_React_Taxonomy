@@ -1,0 +1,1 @@
+{"version":3,"file":"IReactTaxonomyState.d.ts","sourceRoot":"","sources":["../../../../src/webparts/reactTaxonomy/components/IReactTaxonomyState.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,6CAA6C,CAAC;AAE3E,MAAM,WAAW,mBAAmB;IAChC,WAAW,EAAE,YAAY,CAAC;CAC7B"}
